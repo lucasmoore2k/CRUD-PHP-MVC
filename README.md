@@ -14,7 +14,7 @@ Crud simples de usuários usando o padrão de arquitetura MVC, o projeto consist
 
 5 - Biblioteca PDO para conexão com Banco de dados MySQL
 
-<p>Como instalar o projeto?</p>
+<h3>Como instalar o projeto?</h3>
 
 1 - Baixa os arquivo TESTE.sql;
 
@@ -23,7 +23,7 @@ Crud simples de usuários usando o padrão de arquitetura MVC, o projeto consist
 3 - Baixar os arquivos restantes e acessar a primeira tela a partir da pasta View;
 
 
-<p>Screens do projeto</p>
+<h3>Screens do projeto</h3>
 
 <p>Tela de listagem dos usuários cadastrados</p>
 <img src="https://github.com/lucasmoore2k/CRUD-php-mvc/blob/main/crudmvc/screens/screen_search.png"></img>
@@ -35,6 +35,8 @@ Crud simples de usuários usando o padrão de arquitetura MVC, o projeto consist
 <img src="https://github.com/lucasmoore2k/CRUD-php-mvc/blob/main/crudmvc/screens/screen_create.png"></img>
 
 
-<h7>Pontos de melhoria futura</h7>
+<h5>Pontos de melhoria futura</h5>
+
 1 - Melhorar interação no sistema de busca ajax ou utilizar bibliotecas mais mordernas em Javascript(Vue ou React)
+
 2 - Criar logins especificos para tipos de usuários
