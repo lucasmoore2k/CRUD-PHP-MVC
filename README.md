@@ -25,9 +25,9 @@ Crud simples de usuários usando o padrão de arquitetura MVC, o projeto consist
 
 <p>Screens do projeto</p>
 
-<img src="https://github.com/lucasmoore2k/CRUD-php-mvc/tree/main/crudmvc/screens/screen_search.png">Tela de listagem dos usuários cadastrados</img>
-<img src="https://github.com/lucasmoore2k/CRUD-php-mvc/tree/main/crudmvc/screens/screen_searc2.png">Tela de busca dos usuários cadastrados</img>
-<img src="https://github.com/lucasmoore2k/CRUD-php-mvc/tree/main/crudmvc/screens/screen_edit.png">Tela de edição dos usuários cadastrados</img>
+<img src="https://github.com/lucasmoore2k/CRUD-php-mvc/blob/main/crudmvc/screens/screen_search.png">Tela de listagem dos usuários cadastrados</img>
+<img src="https://github.com/lucasmoore2k/CRUD-php-mvc/blob/main/crudmvc/screens/screen_searc2.png">Tela de busca dos usuários cadastrados</img>
+<img src="https://github.com/lucasmoore2k/CRUD-php-mvc/blob/main/crudmvc/screens/screen_edit.png">Tela de edição dos usuários cadastrados</img>
 <img src="https://github.com/lucasmoore2k/CRUD-php-mvc/blob/main/crudmvc/screens/screen_create.png">Tela de cadastro dos usuários</img>
 
 
