@@ -12,7 +12,7 @@ Crud simples de usuários usando o padrão de arquitetura MVC, o projeto consist
 
 4 - Conceitos de POO;
 
-5 - Biblioteca PDO para conexão com Banco de dados MySQL
+5 - Biblioteca PDO para conexão com Banco de dados MySQL;
 
 <h3>Como instalar o projeto?</h3>
 
@@ -24,7 +24,7 @@ Crud simples de usuários usando o padrão de arquitetura MVC, o projeto consist
 
 3 - Baixar ou clonar os arquivos restantes;
 
-4 - Abrir através da pasta view.
+4 - Abrir através da pasta view;
 
 
 <h3>Screens do projeto</h3>
@@ -41,11 +41,11 @@ Crud simples de usuários usando o padrão de arquitetura MVC, o projeto consist
 
 <h5>Pontos de melhoria futura</h5>
 
-1 - Melhorar interação no sistema de busca ajax ou utilizar bibliotecas mais mordernas em Javascript(Vue ou React)
+1 - Melhorar interação no sistema de busca ajax ou utilizar bibliotecas mais mordernas em Javascript (Vue ou React);
 
-2 - Criar logins especificos para tipos de usuários
+2 - Criar logins especificos para tipos de usuários;
 
-3 - Diminuir o tamanho do código
+3 - Diminuir o tamanho do código;
 
 
-* Esse projeto foi baseado num teste de contratação.
+* Esse projeto foi baseado num teste de processe seletivo para desenvolvedor.
