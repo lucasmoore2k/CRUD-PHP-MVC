@@ -44,3 +44,8 @@ Crud simples de usuários usando o padrão de arquitetura MVC, o projeto consist
 1 - Melhorar interação no sistema de busca ajax ou utilizar bibliotecas mais mordernas em Javascript(Vue ou React)
 
 2 - Criar logins especificos para tipos de usuários
+
+3 - Diminuir o tamanho do código
+
+
+* Esse projeto foi baseado num teste de contratação.
