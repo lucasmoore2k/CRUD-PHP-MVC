@@ -16,11 +16,15 @@ Crud simples de usuários usando o padrão de arquitetura MVC, o projeto consist
 
 <h3>Como instalar o projeto?</h3>
 
-1 - Baixa os arquivo TESTE.sql;
+É necessário ter o Xampp ou outro servidor local instalado.*
+
+1 - Baixar os script TESTE.sql;
 
 2 - Importar o script através do PHPMyAdmin ou MySql Workbench;
 
-3 - Baixar os arquivos restantes e acessar a primeira tela a partir da pasta View;
+3 - Baixar ou clonar os arquivos restantes;
+
+4 - Abrir através da pasta view.
 
 
 <h3>Screens do projeto</h3>
